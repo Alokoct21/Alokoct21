@@ -6,7 +6,7 @@ Full-Stack Web developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [alokmath021@gmail.com](mailto:alokmath099@gmail.com)
-* 🧠  I'm learning MERN Stack Development
+* 🧠  I'm learning Frontend Development
 
 ### Skills
 
