@@ -5,7 +5,7 @@ Full-Stack Web developer
 ------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [alokmath021@gmail.com](mailto:alokmath099@gmail.com)
+* ✉️  You can contact me at [alokmath099@gmail.com](mailto:alokmath099@gmail.com)
 * 🧠  I'm learning Frontend Development
 
 ### Skills
