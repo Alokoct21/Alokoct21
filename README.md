@@ -15,8 +15,7 @@ Full-Stack Web developer
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-
+[Link to PDF File](https://drive.google.com/file/d/11A8jXAuFCD932G2okBNzboMbVGH8esko/view?usp=sharing)
 
 ### Socials
 
